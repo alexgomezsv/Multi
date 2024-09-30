@@ -1,0 +1,3 @@
+([('multiviewer',
+   '/Users/alex-mac/Desktop/Multi/dist/multiviewer',
+   'EXECUTABLE')],)
